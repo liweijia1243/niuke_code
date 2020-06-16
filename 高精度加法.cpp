@@ -81,7 +81,7 @@ string string_minus(string& str1,string& str2)
 
 }
 
-
+//程序好像有点小问题，有时候第一位会是0
 int main()
 {
     string str1,str2;
